@@ -1,5 +1,18 @@
 {
+    "navbar":{
+        "bk1":"UmaSide",
+        "pg1":"Clicker",
+        "pg2":"My Gallery",
+        "pg3":"Projects",
+        "pg4":"Translations ES"
+    },
     "home":{
-        "title": "hi"
+        "title": "Welcome to UmaClicker",
+        "subtitle": "The WWeb page where u will find sounds of the Umas u Like."
+    },
+    "footer":{
+        "leftSide": "Me, Nekroz:",
+        "rightSide": "Social Networks",
+        "rightText": "If u have any suggestion or something, contact me, i also make commisions."
     }
 }

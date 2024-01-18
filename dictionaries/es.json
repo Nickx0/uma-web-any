@@ -1,5 +1,18 @@
 {
+    "navbar":{
+        "bk1":"UmaSide",
+        "pg1":"Clicker",
+        "pg2":"Mi Galeria",
+        "pg3":"Proyectos",
+        "pg4":"Traducciones"
+    },
     "home":{
-        "title": "Hola"
+        "title": "Bienvenido a UmaClicker!",
+        "subtitle": "La pagina web donde obtendras sonidos de las umas que te gustan."
+    },
+    "footer":{
+        "leftSide": "Yo, Nekroz:",
+        "rightSide": "Redes Sociales",
+        "rightText": "Si tienes alguna sugerencia o algo, contactate conmigo, tambien hago comisiones."
     }
 }
