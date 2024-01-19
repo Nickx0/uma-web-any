@@ -12,8 +12,8 @@ export default function IconClick(text) {
     <div className='w-1/5'>
       <Image
       src='/static/umaicon.png'
-      width={50}
-      height={50}
+      width={400}
+      height={400}
       alt='UmaIcon'
       onClick={play}
       />
