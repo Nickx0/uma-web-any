@@ -1,4 +1,4 @@
-export default VivlosSounds=[
+const VivlosSounds=[
 'snd_voi_aimteam_109100_0000.ogg',
 'snd_voi_gacha_109101_0000.ogg',
 'snd_voi_outgame_109100_0026.ogg',
@@ -172,3 +172,4 @@ export default VivlosSounds=[
 'snd_voi_story_051091001_98.ogg',
 'snd_voi_story_051091001_99.ogg'
 ];
+export default VivlosSounds;
